@@ -1,3 +1,2 @@
-pandas/
-gcloude/
-pyarrow/
+pandas
+pyarrow
